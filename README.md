@@ -1,6 +1,6 @@
 # Hi, I'm Inah James
 
-I'm a full-stack developer specializing in API integration, front-end development, and database management. I enjoy building practical applications that solve real problems.  
+I am a computer science student at Century College with experience in full-stack application development. I enjoy working with SQL queries, building practical projects, and I am looking to expand my skills in full-stack development and explore machine learning in the future.  
 
 ---
 
@@ -19,10 +19,12 @@ Translates and converts YouTube scripts into audio in multiple languages.
 ---
 
 ## Skills
+
 Python, Java, JavaScript, SQL (PostgreSQL, MySQL), Flask, React, REST APIs, Git, API Integration, Front-End Development  
 
 ---
 
 ## Contact
+
 Email: jamesinah34@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/inah-james/) | [GitHub](https://github.com/Troppy2)
