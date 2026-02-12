@@ -3,11 +3,11 @@
 
 Computer science student at Century College. I build full-stack applications, enjoy working with SQL queries, and aim to expand my skills in full-stack development while exploring new technologies in the future.  
 
-##### Projects
+#### Projects
 - Lingo: A fullstack application that translated YouTube videos to different languages.
 - Park&Go: A fullstack web application that is used to find parking spots around the University of Minneosta campus.
 - 
-##### Tech Stack
+#### Tech Stack
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -20,7 +20,7 @@ Computer science student at Century College. I build full-stack applications, en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
 
-##### Contact
+#### Contact
 
 Email: jamesinah34@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/inah-james/) | [GitHub](https://github.com/Troppy2)
