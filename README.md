@@ -4,13 +4,6 @@ Computer science student at Century College. I build full-stack applications, en
 
 ---
 
-## Projects
-
-### [Lingo](https://github.com/Troppy2/Lingo)  
-### [Park&Go](https://github.com/Troppy2/parkandgo)  
-
----
-
 ## Tech Stack
 
 <p>
