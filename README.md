@@ -1,7 +1,7 @@
-# Hi, I'm Inah James
-
+# Hi, I'm Inah James 👋🏿
+---
 Computer science student at Century College. I build full-stack applications, enjoy working with SQL queries, and aim to expand my skills in full-stack development while exploring new technologies in the future.  
-
+---
 ## Tech Stack
 
 <p>
