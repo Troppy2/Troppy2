@@ -2,8 +2,6 @@
 
 Computer science student at Century College. I build full-stack applications, enjoy working with SQL queries, and aim to expand my skills in full-stack development while exploring new technologies in the future.  
 
----
-
 ## Tech Stack
 
 <p>
@@ -16,8 +14,6 @@ Computer science student at Century College. I build full-stack applications, en
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
 </p>
-
----
 
 ## Contact
 
