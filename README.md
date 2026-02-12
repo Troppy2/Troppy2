@@ -1,6 +1,12 @@
 # Hi, I'm Inah James 👋🏿
 ---
+
 Computer science student at Century College. I build full-stack applications, enjoy working with SQL queries, and aim to expand my skills in full-stack development while exploring new technologies in the future.  
+
+---
+##Projects
+- Lingo: A fullstack application that translated YouTube videos to different languages.
+- Park&Go: A fullstack web application that is used to find parking spots around the University of Minneosta campus.
 ---
 ## Tech Stack
 
