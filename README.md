@@ -7,14 +7,7 @@ Computer science student at Century College. I build full-stack applications, en
 ## Projects
 
 ### [Lingo](https://github.com/Troppy2/Lingo)  
-**Tech:** Python, Google Translate & TTS APIs, YouTube API  
-Translates and converts YouTube scripts into audio in multiple languages.  
-
 ### [Park&Go](https://github.com/Troppy2/parkandgo)  
-**Tech:** Python, Flask, PostgreSQL, REST APIs, MapLibre GL, Google OAuth 2.0  
-- Ranked parking spots by distance, cost, and preferences, reducing search time by 75%  
-- Developed 12+ REST APIs handling 200+ daily requests  
-- Integrated 3D MapLibre GL visualization for accurate locations  
 
 ---
 
