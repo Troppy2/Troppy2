@@ -20,5 +20,6 @@ I am currently working on Park&Go A fullstack web application that combines AI/M
 
 #### Contact
 > I would love to connect with you and discuss about coding.
+
 Email: jamesinah34@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/inah-james/) | [GitHub](https://github.com/Troppy2)
