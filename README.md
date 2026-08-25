@@ -1,8 +1,7 @@
-# Hi, I'm Inah James 👋🏿
+# Hi, I'm Inah!
 ---
-I code slop!  
-### Contact
-> I would love to connect with you and discuss about coding.
+I like to code slop!  
+> I would also love to connect or talk about coding!
 
 Email: jamesinah34@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/inah-james/) | [GitHub](https://github.com/Troppy2)
+[LinkedIn](https://www.linkedin.com/in/inah-james/)
