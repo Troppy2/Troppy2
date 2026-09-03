@@ -1,6 +1,5 @@
 # Hi, I'm Inah!
 ---
-I like to code slop!  
 > I would also love to connect or talk about coding!
 
 Email: jamesinah34@gmail.com  
